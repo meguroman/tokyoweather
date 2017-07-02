@@ -1,0 +1,28 @@
+# for environment files
+.bundle/*
+*.gem
+*.rbc
+/.config
+/doc/
+/logs/
+tags
+.idea
+
+## Environment normalisation:
+/.bundle/
+/vendor/bundle
+/vendor/bundler
+/lib/bundler/man/
+
+# for mac environment
+.DS_Store
+.AppleDouble
+.LSOverride
+nohup.out
+
+# test and tmp file/directory
+/tmp/
+*.html
+*.csv
+*.zip
+
